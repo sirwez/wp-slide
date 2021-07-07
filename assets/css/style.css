@@ -1,0 +1,59 @@
+.arimoFont{
+    font-family: 'Arimo', sans-serif;
+}
+
+.color{
+    color: #808080
+}
+.colorGrey{
+    color: #494a4d
+}
+.colorGreyTwo{
+    color: #b9b8b8
+}
+.timeline-header, .timeline-footer
+{
+          display:none ;
+}
+
+img.face{
+    float: left;
+    border: transparent thin solid;
+    padding: 10px;
+    margin: 0px -10px 10px 0;
+    max-width: 186px;
+}
+body > div.d-flex.flex-row.bd-highlight.mb-2 {
+    height: 40px !important;
+}
+section.d-flex.justify-content-center.justify-content-lg-between.p-4.border-bottom{
+    padding: 0.01rem!important;
+    padding-bottom: 1.5rem!important;
+}
+
+
+  img{
+
+    width: 10%;
+  }
+  body > div.container > div.row.row-cols2 > div.col > div.row > div:nth-child(2) > p:nth-child(2){
+    margin-bottom:0 px
+  }
+  .orangeSVG{
+      color: orange;
+  }
+  .blueSVG{
+    color: rgb(0, 172, 237);
+}
+body > div.container > div.row.row-cols2 > div.col > div.row > div:nth-child(1){
+    padding-bottom: 1rem;
+}
+
+.espace{
+    padding-bottom: 1rem;
+}
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+ }
